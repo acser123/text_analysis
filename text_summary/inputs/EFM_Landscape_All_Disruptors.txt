@@ -1,0 +1,41 @@
+One of the biggest potential disruptors in this market will be the direction regulators around the world take as it pertains to legislation and policy centered around scam reimbursement and the role of receiving banks, telcos, and internet platforms. While the UK is the country furthest ahead in terms of enacting law, other countries are following suit with their own variation of requirements. Many regulators are putting out language that centers around liability shifts for scam reimbursement on receiving banks. This creates new challenges for FIs to rethink receiving side controls to prevent money laundering and mule accounts. Some regulators (Australia and Singapore are recent examples) have also proposed extending liability to telcos, internet platforms and social media companies. In Brazil, Resolution 6 is mandating data sharing between banks which will include the details of the target account and the name of the account holder if the fraud involves the transfer or payment of funds.
+Rapid technology shift and evolvement.
+Collaborative development platforms.
+Consume market shift towards customized solutions with accessibility to latest technologies.
+Utilizing unstructured data 
+Flexible no code architectures for deploying and finetuning fraud rules.
+GenAI and its implications: AI decision-makers are already evolving their AI governance programs to address GenAI use cases, such as the growing use of AI development assistants for code generation and productivity enhancement. However, this is accompanied by security risks and concerns. 
+Synthetic data will unlock opportunities currently restricted by regulatory requirements and complexities. This is because synthetic data can help overcome challenges with personal data, such as collecting and cleansing data (which is difficult for many organizations). Synthetic data is also emerging as a key tool to mitigate privacy and ethical challenges, as it is not directly linked to individuals. It increases the ability to process personal data for AI, GenAI, and analytics without privacy-related limitations. This is crucial because large volumes of high-quality data are necessary for AI training and analytics; and combined with security controls and agreements, synthetic data facilitates safer and more valuable data sharing. 
+Vendors that offer Software As A Service solutions  challenging the traditional 'on-premises' solutions, as banks look to reliable support and IT cost forecasts, whilst maintaining leading edge technology.
+Advanced ML capabilities utilising genAI.
+GenAI.
+Automated customer onboarding (individuals and small businesses).
+Blockchain Technology ensures the immutability of transaction records, making it more difficult for fraudsters to manipulate or alter data.
+Generative and deep fake genAI requiring models and approaches that can differentiate real from fabricated.
+Federated and governmental identity schemes reducing the need for third party verification.
+New technologies such as Gen AI can help manage some of the nuances in the data, but fraudsters are far ahead of financial services companies, so we don't see an end to the rapid growth of fraud committed against organizations.
+Effective post-login monitoring of accounts for suspicious activity that is not tied to a particular payment instrument or a discrete point in the customer journey.
+Combining pre and post-login account fraud detection, as well as multiple threat vectors and multiple business use cases across many verticals.
+Consolidated scoring (detection), policy, orchestration, and investigation within one solution across all use cases.
+No code/low-code deployment and integration.
+Generative AI (ATO/Malware/Scripting bot attacks).
+Passkeys: passwordless credentials.
+AI based attacks.
+Generative genAI. The ability to create and refine models to capture fraud, identify bad actors and new types of fraud will remain but leveraging GenAI to improve customer experiences will be an interesting area of development. Everything from aiding customer support or identifying training and support documentation to assessing and identifying new rules, parameters or report configuration to highlight important aspects of each business, uniquely.
+This market is still dominated by legacy on prem solutions, the move to Software as a Service has been going on, where according to our research 50% of new opportunities are no longer on prem.
+Using AI as a scalable way to reach out to consumers as part of investigation can be interesting.
+Generative genAI to streamline processes.
+Growing number and types of Scams.
+Claims Management – leveraging AI to combat claims fraud.
+Sending and Receiving FI fraud liability for scams will accelerate Fis and vendors to better detect scams/ APP fraud
+Generative AI and LLM. As mentioned above, both attackers and vendors are using these, which means that both threats and threat responses are changing and will continue to change rapidly.
+The embracing of new IAM standards (e.g. passkeys, decentralized identity management) will lead to new types of attacks and scams.
+A low code, no code product offering that does not exhaust IT resources or cost a ton to integrate.
+Network and centralized scores. 
+Generative genAI and its role in AI-generated fraud; digital fraud powered by AI; faked images, documents.
+Broader adoption of passwordless authentication.
+PSD3.
+Visa's Compelling Evidence 3.0 rule changes.
+Banks, payment providers and vendors sharing data in consortium-type models.
+SaaS and Cloud delivery. While it is norm for vendors to deliver this way, Financial Institutions still have a long way to go and there will be winners and losers as part of this journey 
+AI, from Deep Learning on transaction analytics to Generative AI to transform user experiences. Similarly, fraudsters’ use of AI will improve their ability to scale the rate and quality of fake identities, personas, companies, messages.

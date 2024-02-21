@@ -1,0 +1,8 @@
+
+C:\Users\acser\Documents\Python\text_summary\cosine_distance>python cos_dist_summary_v1.py 5 file:///C:/Users/acser/Documents/Python/text_summary/inputs/EFM_Landscape_All_Challenges.txt 
+Banks are also grappling with the complexities of synthetic identity fraud and the vulnerabilities in physical biometrics authentication, underscoring the need for robust, multi-layered fraud detection and authentication strategies.
+Effective management of chosen fraud solutions, especially with regards to lowering the cost of deployment and expansion to new areas and managing multiple threat vectors (card fraud, account opening fraud, gift card fraud, return fraud, withdrawal fraud, site abuse) within consolidated solutions.
+Publishing teams: Need to ensure there is no digital fraud that may impact the experience by injecting malware or fraudulent advertisements.
+Sound knowledge to appreciate effectiveness of machine learning or smart AI before purchasing.
+Organizational structure sometimes creates siloed approaches for fraud detection when fraud detection responsibility is split between different teams that don’t share knowledge and fail to look at fraud detection holistically.
+

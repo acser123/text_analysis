@@ -1,0 +1,1 @@
+python LDA_v12.py 7 4 C:/Users/acser/Documents/Python/text_summary/inputs/EFM_Landscape_All_Challenges.txt

@@ -1,0 +1,2 @@
+@rem python abstractive_v1.py file:///C:/Users/acser/Documents/Python/text_summary/inputs/EFM_Landscape_All_Challenges.txt
+python abstractive_v2.py file:///C:/Users/acser/Documents/Python/text_summary/inputs/EFM_Landscape_All_Challenges.txt

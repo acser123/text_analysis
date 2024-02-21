@@ -1,0 +1,15 @@
+Real-time payments adoption in different shapes and forms and the associated fraud that becomes almost irreversible drives buyers to seek for efficient fraud mitigation tools for these payment options.
+The expansion of IAM solutions to include fraud protection and/or the expansion of fraud solutions to include IAM capabilities.
+Cyber fraud fusion – Organizations are moving to shared technology services models to improve collaboration and information sharing between cyber, fraud and AML teams.
+GenAI is the most recent driver of 50%+ increases in fraud rates in that it enables bad actors to commit fraud more convincingly and at scale.
+Consequently, the demand for sophisticated fraud controls becomes imperative to safeguard against evolving fraud methodologies.
+The rise of real-time payments and the associated increase in the attack surface presents new challenges in fraud prevention, necessitating a shift towards more agile, real-time fraud detection methods.
+Banks are also grappling with the complexities of synthetic identity fraud and the vulnerabilities in physical biometrics authentication, underscoring the need for robust, multi-layered fraud detection and authentication strategies.
+Ability to tackle new types of fraud and the emerging regulatory frameworks around them e.g Scams/APP fraud.
+Messaging of the reality of fraud and fraud management isn’t making it up to C-suite, and executives don’t understand the problem well enough.
+Capturing accurate fraud outcomes for authorized fraud for model improvement.
+This is because synthetic data can help overcome challenges with personal data, such as collecting and cleansing data (which is difficult for many organizations).
+Combining pre and post-login account fraud detection, as well as multiple threat vectors and multiple business use cases across many verticals.
+Sending and Receiving FI fraud liability for scams will accelerate Fis and vendors to better detect scams/ APP fraud Generative AI and LLM.
+Utilizing unstructured data Flexible no code architectures for deploying and finetuning fraud rules.
+Everything from aiding customer support or identifying training and support documentation to assessing and identifying new rules, parameters or report configuration to highlight important aspects of each business, uniquely.

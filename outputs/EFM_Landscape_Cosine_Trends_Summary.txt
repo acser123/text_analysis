@@ -1,0 +1,9 @@
+
+C:\Users\acser\Documents\Python\text_summary\cosine_distance>python cos_dist_summary_v1.py 5 file:///C:/Users/acser/Documents/Python/text_summary/inputs/EFM_Landscape_All_Trends.txt 
+More artificial intelligence aided insights and automation for faster investigations"
+Expanding beyond traditional self-service tools, the ability for systems to identify intricate fraud patterns and provide actionable insights will empower users with enhanced decision-making capabilities that leverage sophisticated analytics to detect and counteract emerging threats swiftly.
+Launching a misinformation campaign to create an army of fake personas or fake accounts has never been cheaper, and adversaries will continue taking advantage of these technologies.
+There continues to be a merging of platform capabilities as many vendors serving midsize customers are combining fraud management with compliance activities like AML and offering both on the same integration.
+Also with increased regulatory pressures in most geographies, financial services companies will likely place more attention on this issue or face increasing losses and fines.
+Anticipate a surge in fraudulent activities facilitated by deep fakes, voice cloning, and manipulations of photos, as fraudsters increasingly harness the power of generative AI.
+

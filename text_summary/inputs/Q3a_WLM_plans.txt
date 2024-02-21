@@ -1,0 +1,63 @@
+---Azentio---
+Screening algorithms to include Soundex for phonetic search.
+Provision for Weighted Matching consolidated score for multiple parameters. 
+Enhancements in screening performance.
+Enhanced Rule Builder for Screening.
+Robotic process automation for screening reviews.
+
+---BAE---
+OOTB Integrated & Automated ML models learn continuously.
+Simulation tests configurations.
+Smooth, integrated compliance list management – across NetReveal.
+Algorithmic extensions and Smart Name indexing refine alert sensitivity.
+Per record batch processing – per record enrichment.
+
+---ComplyAdvantage---
+ENothing.
+DNothing.
+CNothing.
+BNothing.
+ANothing.
+
+---DowJones---
+High Volume: Monitor many transactions.
+Scaled Configurability workflow, reporting and visualisatility.
+Automation & Interoperability: structured data in internal and external systems, interoperability.
+Agility compliance problems  diligence reports and managed service.
+Community journalistic, events and expertise with vertical networks.
+
+---Featurespace---
+Screening alert triage based on ML.
+Analytics to assess risks real time for geographic or industry exposure.
+ML supported screening reviews.
+Integration with more watch list providers.
+FEATNothing.
+
+---Feedzai---
+Application of sentiment analysis and filtering for Adverse Media.
+Use of ML for name matching.
+Entity resolution for better screening results, particularly with regards to payments.
+Integration with beneficial owner registrations.
+Extension of link analysis for payments consolidation.
+
+---FiServ---
+Overlay machine learning to text matchimg. 
+Enhance freeform text matching.
+Support emerging payments types.
+Increase speed of screening.
+Incorporate biometrics.
+
+---NICEActimize---
+Real-Time Data Insights Orchestration.
+Full biometrics integration.
+Advanced Analytics.
+Consortium Screening. 
+Next generation message screening.
+
+---SAS---
+API integration with specialized 3rd party screening vendors.
+Enhance UX screening configurations.
+Enhance adverse media screening process.
+Streamline batch and low-latency screening.
+Extend range of options for screening service selection.
+

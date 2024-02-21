@@ -1,0 +1,64 @@
+﻿
+---BAE---
+3rd party integration: NR automatically visualises multi-layer corporate
+structures sourced from 3rd party data eg Dun & Bradstreet in investigation.
+Portfolio-wide Alert prioritisation: Intelligent Event Triage (IET)  functionality uses alert enrichment & ML to prioritise alerts in order of urgency, so investigators time is spent on the most urgent alerts first.
+Name matching algorithms, Allowing customisation of standard algorithms (Build Your Own Algorithm) & associating lists of words (nicknames, financial terms) to detect more variance and focus on what is important (Synonyms and weighted words).
+Python integration and expansion: Adding to key models (eg XGBoost and UMAP) with inclusion of two further classification models Histogram Gradient Boosting & Multi-Layer Perceptron, further commitment to open source data science and offer modelling flexibility. 
+24/7 architecture: Architecture separates processing from the user interfaces for maximum resilience, scalability, ease of upgrade and performance optimization.
+
+---Azentio---
+Support for AMLOCK on PostgreSQL DB ( Currently it is supported on Oracle) This would reduce TCO for smaller customers. 
+Smart Card Reader Service for Entity KYC Validations & DOPA Authentication with Thai Regulatory for all entities. 
+Transliteration Service from English to Arabic & vice-versa.
+Webservices / MQ Integration with Enterprise legacy for asynchronous / synchronous communication.
+AI/ ML Models for Analytics for False Positive reduction, Alert scoring.
+
+---Feedzai---
+Patent-pending models increase model fairness by 93%, Developed FATE to be used with fairness metrics, model metrics, and sensitive PII, It works with any algorithm and model settings.
+Alert Prioritization, Both entity-centric features and attributes characterizing inter-entity relations in the form of graph-based features, Models validated on real-world data show reduction in false positives by 80% while detecting over 90% of true positives. 
+Automation of data migration and run multiple threshold tuning exercises in parallel to reduce time to value.
+New Payment Screening solution provides continuous monitoring and evaluation of global watchlists with quick adoption to new sanctions.
+New KYC/CDD solution continuously risk scores an FIs customer base without manual effort, As the customers interact with the FI their risk score is consistently updated, Alerts are only generated when significant change in risk.
+
+---ComplyAdvantage---
+With the addition of Know Your Business (KYB) data, we now have a knowledge graph that includes over 400 million companies and related directors covering 200 + countries and territories that has been derived from over 20,000 active data sources. 
+Announced a new blockchain analysis and transaction monitoring tool that will help crypto firms detect and avoid financial crime, The industry-first solution is powered by Elliptic Navigator, a crypto anti-money laundering (AML) monitoring platform.
+Announced a new early-stage anti-money laundering (AML) program aimed at growth-focused startups called ComplyLaunch,  The program provides qualified startups with free access to the company’s AML and Know Your Customer (KYC) tools and resources.
+Metrics centered on Brand (awareness & preference for SAS), Demand (pipeline growth & revenue acceleration), and Engagement (developing & nurturing lasting customer relationships). 
+Targeted campaigns to move existing customers to AML as a managed service, Large increase in partner channels for mktg and delivery across the globe.
+
+---DowJones---
+UBO visualisation, The ability to see in visual format (not simply text) beneficial owners, Data provided by D&B and is at additional cost.
+Ability to screen against a private list of names eg greylists provided by our clients, blocked parties not necessarily in DJ data.
+Abillity to select individual lists for monitoring (eg OFAC only), This helps reduce noise when reviewing screening results.
+Automated audit trail (visible by Admin user), Historically the tool had demanded that users had to run an export manually to retain any audit trail, This is now automated.
+Interoperability - supporting quick workflows for easy due diligence report ordering, list management, administrator capabilities, improved workflow.
+
+---Featurespace---
+Case Management - enables analysts & investigators to create cases, assign alerts & events to cases, and take action to escalate or discount cases, Includes full end-to-end case management and the ability to integrate with a 3rd party incident management solution.
+Multi-Language - ARIC UI is now available in Spanish and will be able to support more languages in the future.
+Configuration Management - enables admin users to update application-level configuration without running a full upgrade via APIs Comes with full version control and an audit log with the ability to revert problematic changes. 
+Enhanced Reports - Management Information reports can be embedded within the UI, alongside native reports thereby making it easier to view all reporting and MI data together and to manage the visibility of data to our customers' users.
+Enhanced Incident Management & Search UI - Improvements to the usability of the ARIC incident management and search UI.
+
+---FiServ---
+Analytics - Fiserv has further enriched detection with Enhanced Analytics, We leverage Supervised Machine Learning to decision alerts based upon the outcomes of previous investigations, This technology empowers analysts to focus on alerts that pose the greatest risk and reduce the time reviewing false positives. 
+ISO20022 - The solution supports the import and screening of ISO20022, Support of ISO20022 means that customers are aligned with the adoption by SWIFT, Customers will be fully compliant when Fedwire moves to ISO20022.
+UI/UX - In 2021 we added Watch List Screening Alerts into the portal to make the Alert Portal a one-stop shop for all alert types.
+Pre-Configured Scenarios - Given the increasing focus on predicate crimes (eg AMLD6 in the EU) Fiserv introduced pre-configured scenarios that focus on monitoring of predicate crimes.
+RPA - Fiserv has further integrated RPA technology for alert and case management.
+
+---NICEActimize---
+Release and integration of real-time Identity Resolution to augment our AML solutions with real-time, AI-based entity resolution and network analysis capabilities from Senzing, an innovator in the entity resolution space. 
+Launch of WL-X, an AI-powered Watch List Screening Solution with real-time and on-demand screening for parties and payments that leverages AI to match and screen against global sanctions, politically-exposed persons (PEPs), adverse media and other lists, The solution orchestrates and aggregates list data from premium and public sources with internal lists providing full auditability to ensure accurate screening, The advanced solution offers best-in-class detection, intelligent payment parsing in compliance with ISO20022, and the industry’s most advanced culture/name matching technology. 
+Partnership and OEM of DataRobot, the market leader in AutoML, to deliver automated model refresh based on constant monitoring and to enhance our model development capabilities. 
+Release of X-Sight Connect to provide real-time enrichment from our X-Sight Marketplace partner ecosystem.  X-Sight Connect is a cloud-based API engine that seamlessly connects NICE Actimize solutions with complementary partner offerings, our generic API approach is per use case category/modality so we are able to more quickly certify integration with our partners. 
+Launch of Dark Web Intelligence Solution that utilizes behavioral technology to provide targeted, continuously updated dark and deep web intelligence via three curated data feeds; customer account takeovers, compromised cards, and mule accounts, for use in AML and Fraud solutions.
+
+---SAS---
+Global Image, a joint effort piloted at BBL’s Hong Kong operations and later rolled out globally that enables BBL to apply a more advanced, score-based approach to risk-rate its customers.
+Collaboration with Zencos to develop an as-a-service AML cloud solution to help the financial sector better manage risks.
+Platform, integration capabilities, AI-powered detection, sophisticated analytics tools, configurable investigation platform. 
+AML compliance.
+Partnership with European Banking Federation to spotlight how AI and ML can boost effectiveness of banks’ efforts in fighting financial crime and embed advanced analytics into their AML frameworks.

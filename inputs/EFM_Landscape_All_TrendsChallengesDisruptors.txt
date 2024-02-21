@@ -1,0 +1,177 @@
+"•	Cyber fraud fusion – Organizations are moving to shared technology services models to improve collaboration and information sharing between cyber, fraud and AML teams. This will lead to technology consolidation and corporate realignment.
+•	AI – This is a twofold trend relevant to both fraudsters and fraud management practitioners. For fraudsters, AI is already being used to improve effectiveness of attacks on many fronts (e.g. the use of deepfakes and large language models to create convincing and personalized scams) and will become more scalable over the next 2-3 years. For fraud practitioners, the use of AI algorithms, such as supervised and unsupervised machine learning and deep learning models, will continue to challenge and/or replace legacy rules-based systems.
+•	Scams – Legacy EFM controls are not equipped to address authorized payment scams which require a new era of technologies to address (e.g. Confirmation of Payee, behavioral biometrics). In addition, regulators around the globe are starting to recognize scams as a new class of fraud putting more liability on receiving banks, telcos and social media platforms (see Potential Disruptors).
+"	"1.	Organizational misalignment. Messaging of the reality of fraud and fraud management isn’t making it up to C-suite, and executives don’t understand the problem well enough. Organizations continue to increase loss budgets instead of investing in fraud detection and prevention technology.
+2.	Budget prioritization. Often, the people who hold the budget for EFM projects prioritize investments to initiatives aligned to revenue generation, not loss prevention.
+3.	Crowded industry. Too many fraud management vendors with different value propositions and overpromising on capabilities makes it difficult for buyers to differentiate among solutions.
+"	One of the biggest potential disruptors in this market will be the direction regulators around the world take as it pertains to legislation and policy centered around scam reimbursement and the role of receiving banks, telcos, and internet platforms. While the UK is the country furthest ahead in terms of enacting law, other countries are following suit with their own variation of requirements. Many regulators are putting out language that centers around liability shifts for scam reimbursement on receiving banks. This creates new challenges for FIs to rethink receiving side controls to prevent money laundering and mule accounts. Some regulators (Australia and Singapore are recent examples) have also proposed extending liability to telcos, internet platforms and social media companies. In Brazil, Resolution 6 is mandating data sharing between banks which will include the details of the target account and the name of the account holder if the fraud involves the transfer or payment of funds.
+The growth in instant real time payments and the desire to reduce friction is forcing FIs to deploy anti-fraud solutions at a much larger scale than before and covering more channels than just the card payments.	Time taken to deploy the solution can be long as AI/ML model development on historic data takes a long time. 	N/A
+"-	Use of AI and Machine learning (extended data analytics and pattern recognition, real-time predictive models, unsupervised adaptive models, behavior analysis) 
+-	Scalability and adaptability of deployments 
+-	More frequent and stringent regulatory requirements and updates
+-	Biometrics and authentication (with focus on digital channels) 
+-	Collaboration and threat intelligence
+"	"-	Vendors covered scope VS actual requirements/needs. 
+-	Solution Cost and Actual cost of ownership 
+-	Continuously evolving risks requiring adaptive solutions, including deployment of technology to execute fraud (deepfakes, generative AI, Bots ..etc.). 
+-	Complexity of Integration and customization 
+-	Data quality and legacy systems adaptation 
+"	"-	Rapid technology shift and evolvement 
+-	Collaborative development platforms
+-	Consume market shift towards customized solutions with accessibility to latest technologies.
+"
+"More intelligence to reduce false positives
+More artificial intelligence aided insights and automation for faster investigations"	"Sound knowledge to appreciate effectiveness of machine learning or smart AI before purchasing
+Legacy systems as a baggage, while trying to integrate new AI capabilities
+Stronger regulator oversight, resulting in increasing workload"	"Utilizing unstructured data 
+Flexible no code architectures for deploying and finetuning fraud rules"
+"Expanding beyond traditional self-service tools, the ability for systems to identify intricate fraud patterns and provide actionable insights will empower users with enhanced decision-making capabilities that leverage sophisticated analytics to detect and counteract emerging threats swiftly.
+
+The move towards offering comprehensive services that oversee the entire lifecycle of fraud detection models, including the development, deployment and real-time optimization based on evolving market conditions and fraud trends.
+
+One pivotal trend is the introduction of anonymized cross industry data at scale to existing PII and risk signal environments to establish linkages and holistically understand an individual and the consistency with which their information is used, operationalizing fraud models fast enough to compliantly address constantly changing fraud typologies. This visibility into the signals that other organizations are identifying, which has historically been a significant challenge, enables financial institutions to manipulate expanded data to identify potential new signals and understand how existing systems perform against those signals to determine how a new signal (such as a potentially emerging fraud typology) impacts an existing portfolio.
+"	"The rise of real-time payments and the associated increase in the attack surface presents new challenges in fraud prevention, necessitating a shift towards more agile, real-time fraud detection methods. Banks are also grappling with the complexities of synthetic identity fraud and the vulnerabilities in physical biometrics authentication, underscoring the need for robust, multi-layered fraud detection and authentication strategies. 
+
+Another expected increase is in synthetic ID fraud, stemming from stolen or fabricated personal information. It’s difficult to detect, causes significant losses and it becomes more complex by the lack of consistent tracking of synthetic identity fraud.
+"	"GenAI and its implications: AI decision-makers are already evolving their AI governance programs to address GenAI use cases, such as the growing use of AI development assistants for code generation and productivity enhancement. However, this is accompanied by security risks and concerns. 
+
+Synthetic data will unlock opportunities currently restricted by regulatory requirements and complexities. This is because synthetic data can help overcome challenges with personal data, such as collecting and cleansing data (which is difficult for many organizations). Synthetic data is also emerging as a key tool to mitigate privacy and ethical challenges, as it is not directly linked to individuals. It increases the ability to process personal data for AI, GenAI, and analytics without privacy-related limitations. This is crucial because large volumes of high-quality data are necessary for AI training and analytics; and combined with security controls and agreements, synthetic data facilitates safer and more valuable data sharing. 
+"
+"- move to cloud deployment
+- prevalence of scams 
+- increased need for model explainability & governance
+- genAI"	"- Differentiating between vendors and understanding their true capabilities and what is just marketing speak
+- Analytical bench strength (or lack thereof) is a major issue for banks. This materialises as a reduced internal capability to maintain rules-based fraud detection systems at optimum effectiveness and efficiency.  "	"- Vendors that offer Software As A Service solutions  challenging the traditional 'on-premises' solutions, as banks look to reliable support and IT cost forecasts, whilst maintaining leading edge technology.
+- Advanced ML capabilities utilising genAI
+"
+"1. The growth in real-time payments
+2. Criminals adapt quickly and operate across different channels, so it’s critical for Financial Institutions to set up omnichannel models and rules that are self-service, tested against production data and implemented quickly.
+3. FI’s increasing use of 3DS
+4. Banks moving to prevention rather than detection"	"1. Minimizing intervention rate whilst still maintaining high rates of fraud detection
+2. Capturing accurate fraud outcomes for authorized fraud for model improvement
+3. Impending reimbursement regulations designed to protect consumers"	"1. GenAI
+2. Automated customer onboarding (individuals and small businesses)"
+There has been a significant growth in Scams across the payments landscape in all global markets. domestic regulators are examining liability and, in some situations, demanding Banks to be more responsible for refunding victims. Synthetic, Identity and Application Fraud continue to represent challenges as increasing growth in digital originations. There has been increased focus on preventing and detecting mule accounts which receive the funds from scams and other frauds. Companies have been investing in data science and we are seeing more customers interested in executing their own models alongside vendor-built models. Finally, there is an ever-increasing amount of third-party intelligence that requires banks to be nimble in orchestrating while having the ability to manage a growing number of APIs.	"•	Continuation of trend to more cloud-based solutions
+•	Ability to build and operationalize organizations own AI and ML alongside that of platform providers and third parties.
+•	Ability to tackle new types of fraud and the emerging regulatory frameworks around them e.g Scams/APP fraud.
+•	Drive to more explainable models and improved model-governance
+•	Increased consumer protection increases moral hazard.
+"	"•	Blockchain Technology ensures the immutability of transaction records, making it more difficult for fraudsters to manipulate or alter data.
+•	Generative and deep fake AI requiring models and approaches that can differentiate real from fabricated.
+•	Federated and governmental identity schemes reducing the need for third party verification.
+"
+Gen AI is the most recent driver of 50%+ increases in fraud rates in that it enables bad actors to commit fraud more convincingly and at scale.  Also with increased regulatory pressures in most geographies, financial services companies will likely place more attention on this issue or face increasing losses and fines.	The market is complex and understanding how each vendor might perform is very challenging. To counter this, we encourage the buyer conducts a proof-of-value in which we build a custom deep learning model on their sample data, and then can detail exactly how much we would be able to save them in terms of fraud and compliance automation.   In addition, we offer an ROI guarantee, ensuring that the vast majority of the value we generate accrues to the client and their respective customers.	New technologies such as Gen AI can help manage some of the nuances in the data, but fraudsters are far ahead of financial services companies, so we don't see an end to the rapid growth of fraud committed against organizations.
+"Increasing interest in new account fraud (fake accounts)
+Implementing anti-fraud solutions earlier in the chain, e.g., intervening before getting to the point of attempted card fraud or stopping account registration for fake accounts before incurring the associated KYC and IDV costs. 
+Customers are increasingly concerned with the costs associated with having developers modify their applications to call APIs and to take action on fraud scoring. They are increasingly looking for integration that does not require R&D resources and for orchestration solutions to call custom actions. 
+Customers are also looking towards a holistic viewpoint of the entire customer journey through their site and the associated risk, as well as visualizations of clusters and fraud rings. 
+
+One of the biggest trends that will only accelerate in the fast-evolving landscape of 2024 is the proliferation of accessible AI. With threat actors gaining cost-effective access to various AI tools, launching cyber attacks and committing digital fraud is becoming extremely cheap. Launching a misinformation campaign to create an army of fake personas or fake accounts has never been cheaper, and adversaries will continue taking advantage of these technologies.
+
+For more information: https://www.humansecurity.com/hubfs/HUMAN_Report_2023-Enterprise-Bot-Fraud-Benchmark-Report.pdf"	"Identifying solutions that give broad protection against fraud across multiple points. e.g., pre-account login, post-account login
+Distinguishing between vendors and identifying covered use cases
+Identifying ROI on fraud detection solutions
+Effective management of chosen fraud solutions, especially with regards to lowering the cost of deployment and expansion to new areas and managing multiple threat vectors (card fraud, account opening fraud, gift card fraud, return fraud, withdrawal fraud, site abuse) within consolidated solutions 
+In any given organization, digital attacks span the entire organization. It is not the responsibility of only one group. HUMAN has observed five buying centers that must solve digital fraud and abuse in any typical organization. These groups typically do not work together to defend the organization across the digital fraud landscape. HUMAN helps defend organizations across the entire digital fraud landscape.
+
+For example: 
+- Ad platforms teams: Need to deliver fraud-free advertising inventory to be delivered to the correct target market and ensure that the ads are optimized for high quality and not “heavy” ads
+- Publishing teams: Need to ensure there is no digital fraud that may impact the experience by injecting malware or fraudulent advertisements  
+- Anti Fraud teams: Focus on prevention of fraud across the end customer digital journey resulting in financial fraud and risk borne from ATO attacks and synthetic (fake) account creation, amongst other threat vectors
+- Application protection teams: Focus on safeguarding the application against fraudulent attacks and detecting emerging threats that may impact the operation preventing scraping and data exfiltration.
+- Marketing teams: Fraudulent lead generation skews marketing analytics and results in contaminated data systems. 40% of marketing teams see fraudulent and suspicious behavior on the websites and campaigns
+
+HUMAN helps these groups defend against digital fraud across the entire organization."	"- Effective post-login monitoring of accounts for suspicious activity that is not tied to a particular payment instrument or a discrete point in the customer journey
+- Combining pre and post-login account fraud detection, as well as multiple threat vectors and multiple business use cases across many verticals
+- Consolidated scoring (detection), policy, orchestration, and investigation within one solution across all use cases
+- No code/low-code deployment and integration 
+- Generative AI (ATO/Malware/Scripting bot attacks).
+- Passkeys: passwordless credentials"
+"1. Consolidation and Integration of Fraud solutions with Security and Identity risk solutions
+2. Response Automation"	"1. Maintaining constant high fraud detection rate
+2. Budget 
+"	1. AI based attacks
+"- Continued increase in account fraud - including account opening and protection/management.
+   - Synthetic IDs remain problematic
+   - Solutioning for RTP transaction fraud and scams
+   - Biometrics (physical and behavioral)
+   - Creating value by focusing on the end user/customer"	Market fragmentation and the growing number of solutions. While there is some consolidation, the number of players in the market is growing every year. Buyers are going to face large RFI/RFP efforts and struggle to weed out solutions who use technical language to mask real capabilities. Additionally, solutions, like the competition, are fragmented where point solutions are commonplace and require buyers to vet multiple providers for a single, end to end solution. This creates operational challenges and technical complexities that buyers must consider. 	Generative AI. The ability to create and refine models to capture fraud, identify bad actors and new types of fraud will remain but leveraging GenAI to improve customer experiences will be an interesting area of development. Everything from aiding customer support or identifying training and support documentation to assessing and identifying new rules, parameters or report configuration to highlight important aspects of each business, uniquely.
+"•	There continues to be a merging of platform capabilities as many vendors serving midsize customers are combining fraud management with compliance activities like AML and offering both on the same integration.  Similarly, for customers of all sizes we are seeing a cross over between Risk Based Authentication and EFM.
+•	Combination of many fraud signal sources such as Transaction, Device, session behavior (Behavior Biometrics), cross session behavior, consortium approaches are being offered by leading vendors in this space, via either consolidation or partnerships.
+•	Scams and other advanced use cases are trending higher and becoming more of a concern for customers looking for fraud solutions.
+•	Cost management on staff and replacement with automation."	The effort to integrate and implement an EFM solution creates a high barrier for replacement.  This leads to great difficulty in vendor assessment, essentially it is hard to compare objectively.	"•	This market is still dominated by legacy on prem solutions, the move to Software as a Service has been going on, where according to our research 50% of new opportunities are no longer on prem.
+•	Using AI as a scalable way to reach out to consumers as part of investigation can be interesting.
+"
+"•	Evolving Threat Landscape: In the ongoing battle against financial crime, there is a paradigm shift towards addressing increased attack rates, specifically concerning New Account Fraud (NAF) and Account Takeover (ATO). Simultaneously, the landscape is marked by emerging challenges related to scams and mules. Regulatory bodies worldwide are proactively exploring consumer reimbursement models in response to these evolving threats, as exemplified by the impactful UK PSR Announcement in June 2023, which will have mandatory regulatory enforcement for 50/50 reimbursement of consumer scams in the UK market. 
+
+•	Payments Modernization Dilemma: The momentum toward payments modernization, including the transition to real-time payments and the advent of open banking, is a double-edged sword. While these advancements offer unparalleled convenience, they also attract sophisticated fraudsters. Consequently, the demand for sophisticated fraud controls becomes imperative to safeguard against evolving fraud methodologies. Payment rail updates to the ISO 20022 scheme by 2025 is top of mind.
+
+•	Precision through Machine Learning: The strategic implementation of Machine Learning (ML) models is pivotal in achieving the pinnacle of fraud detection efficiency. Striking the delicate balance between high detection rates, minimal false positives, and preserving a seamless customer experience is the new standard. Leveraging ML becomes not just a strategy but a fundamental necessity in the fight against financial fraud.
+
+•	Explainability with ML/AI:As Financial Services navigate complex, highly regulated environments, there is a growing emphasis on Machine Learning explainability and model governance. Operationalizing ML requires transparency and accountability. Therefore, focusing on these aspects ensures that ML becomes a valuable asset rather than a potential risk in the regulated financial landscape.
+
+•	Cloud-First Innovation: The future of technological investments is unequivocally aligned with a ""Cloud First"" strategy. This strategic shift is not merely an investment but a proactive stance to drive innovation in cloud solutions. With a targeted focus on enhancing speed, flexibility, and scalability, the cloud-first approach ensures financial institutions stay agile in an ever-evolving landscape.
+
+•	Overcoming Data Integration Challenges: The proliferation of point solutions and diverse data sources poses a significant challenge in achieving effective end-to-end fraud management. Recognizing this, the focus now shifts to innovative approaches for data acquisition and integration. Solutions that address this challenge head-on are pivotal for holistic and comprehensive fraud management strategies.
+
+•	Generative AI and Criminals: While Generative AI serves as a catalyst for advancements, it raises concerns about potential threats. Anticipate a surge in fraudulent activities facilitated by deep fakes, voice cloning, and manipulations of photos, as fraudsters increasingly harness the power of generative AI. cutting-edge tools, this will amplify the need for more sophisticated security measures.
+"	"•	Scams and Money Mules: Research shows 59% of new account and authorized push payment fraud (APP) involves mules, and they’re hard to catch because it’s easy for money mule transactions to slip through traditional payment monitoring methods. 
+•	Liability Shifts:  With stricter reporting requirements and liability ownership updates, such as the U.K. Payment Systems Regulator (PSR) liability shift, sending and receiving FIs will need to grapple with authorized fraud reimbursement.
+•	GenAI-driven scams – fighting AI with AI  
+•	Performance and Scale 
+•	Time to value, including that on data integrations
+•	Reducing operational costs, including reduction of time on alerts management, investigations, regulatory filings, claims management etc.) 
+"	"•	Generative AI I to streamline processes
+•	Growing number and types of Scams
+•	Claims Management – leveraging AI to combat claims fraud 
+"
+"• The increase in scams and APP fraud is challenging traditional EFM tools
+• Emerging regulations and fraud liability for scams / APP fraud are driving buyers to invest in scams/ APP detection. 
+• Real-time payments adoption in different shapes and forms and the associated fraud that becomes almost irreversible drives buyers to seek for efficient fraud mitigation tools for these payment options.
+• Blurring lines between Fraud Prevention/ Authentication/ Consumer Identity 
+• Convergence of auth strategy across different LOB and channels
+• More emphasis on machine learning and less emphasis on manual rules
+
+"	"• The market is full of niche solutions addressing specific use cases while an holistic approach to fraud detection is required.
+• Organizational structure sometimes creates siloed approaches for fraud detection when fraud detection responsibility is split between different teams that don’t share knowledge and fail to look at fraud detection holistically (Customer authentication/Fraud/Different owners to different digital channels etc..)
+• Orchestration of data signals and authentication mix
+• Detecting Fraudulent money mules
+* Tailored models & risk signals for payment receipt"	Sending and Receiving FI fraud liability for scams will accelerate Fis and vendors to better detect scams/ APP fraud
+"1. The increased use of AI both for committing and better preventing fraud. Fraudsters are using AI to improve their attacks, while counter-fraud toopls are using AI to better catch and stop cybercriminals.
+2. The expansion of IAM solutions to include fraud protection and/or the expansion of fraud solutions to include IAM capabilities. In general we’re seeing a convergence between fraud and identity tools, which makes sense as they work better together.
+3. The role of identity teams in counter-fraud initiatives is expanding, due to the fact that identity is often a key gateway to fraud. Many types of fraud only become possible when an identity has been compromised, whether it is when ATO has occurred or when a stolen identity is used to register for a new account or service. Identity teams are taking a more active role in evaluating and designing an appropriate counter-fraud response.
+4. An increased focus on social engineering and scams. This links back to the AI point from earlier – generative AI has made it much easier to make very believable scam emails and scripts which can lead to compromised credentials, stolen identities, and ultimately financial loss. 
+"	"1. Integrating signals from multiple detection layers together – often, security, identity, and fraud tools aren’t naturally integrated and work in isolation. Organizations rightly want to make these tools work together to get to better certainty in risk scoring, but this can be very challenging.
+2. Teams have a hard time measuring the ROI of different protection layers, and must deal with overlapping value props across layers (e.g. bot detection may be partially covered on the security layer, but frequently not fully).
+"	"1. Generative AI and LLM. As mentioned above, both attackers and vendors are using these, which means that both threats and threat responses are changing and will continue to change rapidly.
+2. The embracing of new IAM standards (e.g. passkeys, decentralized identity management, etc.) will lead to new types of attacks and scams.
+"
+Understanding the anomalies within the order processing flow to help identify fraud trends. The more granular you become in understanding your customers, the faster you can react to emerging fraud trends. Constant analysis of your incoming fraud chargebacks and comparing that to your incoming orders will help you manage losses going forward. It will also help identify opportunities in rule construction and the manual review process. Fostering a culture of vigilance and perfect execution between your Client success, payments, and fraud team. Having an understanding of converting more good orders vs. canceling or blocking good customers from transacting. Striking the best balance between systematic decisions (pass/fail) with low manual review rates.	Having a great understanding of what the offering is, integration times, and commitments to meeting SLA's.	A low code, no code product offering that does not exhaust IT resources or cost a ton to integrate.
+Increase in network and centralized scores. 	Model deployment, governance and appraisal 	Network and centralized scores. 
+How will generative AI impact fraud management from both the ability to commit fraud to the ability to fight AI-generated fraud schemes; the desire to to adopt fully integrated end-to-end solutions that cover detection through investigation; build vs. buy for fraud management solutions	change management when adopting new tech; budgets; shrinking workforce; data - availability, curation, type (structured, unstructured, images, etc.)	Generative AI and its role in AI-generated fraud; digital fraud powered by AI; faked images, documents, etc.
+"- AI-driven fraud and solutions
+- Convergence of Fraud and Cybersecurity within the enterprise
+- The democratization of fraud - the accessibility and marketability of tools to commit fraud. For example, openly available forums on Telegram provide a range of fraud-as-a-service tools as well as stolen credentials.
+"	"Integration complexity and system migration
+Understanding impact and accuracy before using the product
+Lack of readily available industry insights and best practices 
+"	"broader adoption of passwordless authentication
+PSD3
+Visa's Compelling Evidence 3.0 rule changes"
+"These responses are given in relation to our specific target market: tier 1-3 Financial Institutions 
+
+Faster and Instant Payments driving innovation from fraudsters as well as speed and data volume challenges 
+
+Increased regulatory interest in fraud, where historically fraud investment has been driven by internal bottom-line considerations in FIs 
+
+The use of behavioral biometrics, such as keystroke dynamics and mouse movement patterns, adds an additional layer of authentication and fraud detection, making it harder for fraudsters to mimic user behavior. "	"Ability of fraudsters to innovate with new technology faster than the institutions trying to monitor them. 
+
+Data quality and availability to support finding fraud effectively (irrespective of any vendor chosen) 
+
+Staffing – especially post-pandemic and with the need to hire high end and narrow skills such as data science. Irrespective of operational cost constraints, we have feedback from clients who struggle to hire adequately skilled staff for their fraud programs. 
+
+Efficiency and effectiveness of solutions – getting to the point of proving that they can do more with less "	"Banks, payment providers and vendors sharing data in consortium-type models 
+
+SaaS and Cloud delivery. While it is norm for vendors to deliver this way, Financial Institutions still have a long way to go and there will be winners and losers as part of this journey 
+
+AI, from Deep Learning on transaction analytics to Generative AI to transform user experiences. Similarly, fraudsters’ use of AI will improve their ability to scale the rate and quality of fake identities, personas, companies, messages etc. "

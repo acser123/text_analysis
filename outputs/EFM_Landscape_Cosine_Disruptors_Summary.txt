@@ -1,0 +1,8 @@
+
+C:\Users\acser\Documents\Python\text_summary\cosine_distance>python cos_dist_summary_v1.py 5 file:///C:/Users/acser/Documents/Python/text_summary/inputs/EFM_Landscape_All_Disruptors.txt 
+This creates new challenges for FIs to rethink receiving side controls to prevent money laundering and mule accounts.
+One of the biggest potential disruptors in this market will be the direction regulators around the world take as it pertains to legislation and policy centered around scam reimbursement and the role of receiving banks, telcos, and internet platforms.
+GenAI and its implications: AI decision-makers are already evolving their AI governance programs to address GenAI use cases, such as the growing use of AI development assistants for code generation and productivity enhancement.
+The ability to create and refine models to capture fraud, identify bad actors and new types of fraud will remain but leveraging GenAI to improve customer experiences will be an interesting area of development.
+Vendors that offer Software As A Service solutions  challenging the traditional 'on-premises' solutions, as banks look to reliable support and IT cost forecasts, whilst maintaining leading edge technology.
+
